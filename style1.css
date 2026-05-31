@@ -1,0 +1,54 @@
+body{
+    background:linear-gradient(rgba(9, 4, 105, 0.996), rgb(118, 104, 228));
+}
+
+.pushups{
+    position:relative;
+    left:150px;
+    background-color: rgb(128, 33, 218);
+    width:300;
+    padding:20px;
+    border:4px dashed rgb(14, 106, 236);
+}
+
+.title{
+    color:aqua;
+    font-size:30px;
+    text-align:center;
+}
+
+h1{
+    font-size:36px;
+    text-align:center;
+    color:aliceblue
+}
+
+.n1{
+    font-size:25px;
+    text-align:center;
+    color:rgb(18, 7, 235);
+    font-weight:bold;
+}
+
+.fact{
+    color:bisque;
+    font-style:italic
+}
+
+.running{
+    position:relative;
+    left:150px;
+    background-color: rgb(128, 33, 218);
+    width:300;
+    padding:20px;
+    border:4px dashed rgb(14, 106, 236);
+}
+
+.situps{
+    position:relative;
+    left:150px;
+    background-color: rgb(128, 33, 218);
+    width:300;
+    padding:20px;
+    border:4px dashed rgb(14, 106, 236);
+}
